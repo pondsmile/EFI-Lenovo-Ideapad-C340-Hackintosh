@@ -11,6 +11,7 @@ TouchScreen ❌\
 TouchPad ❌\
 Sleep ❌\
 All USB ❌\
+Audio ❌\
 \
 ![Screen Shot 2566-05-25 at 13 33 12](https://github.com/pondsmile/EFI-Lenovo-C340-Hackintosh/assets/23144335/0b850ca3-9263-4a3a-88a4-4d757c08382b)\
 If fixed, please share the file with me.
