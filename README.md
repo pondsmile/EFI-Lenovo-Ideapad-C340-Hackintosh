@@ -1,4 +1,4 @@
-# EFI-Lenovo-C340-Hackintosh
+# EFI-Lenovo-Ideapad-C340-Hackintosh
 EFI Lenovo Ideapad C340 Hackintosh Ryzen 5 3500u GPU Vega 8\
 CPU : Ryzen 5 3500u ✅\
 IGPU : Vega 8 (Working on VRAM 2GB) ✅\
